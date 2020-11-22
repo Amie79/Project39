@@ -80,7 +80,7 @@ function setup() {
   score = 0;
 
   camera.position.x=displayWidth/2;
-  camera.position.y=trex[index-1].y;
+  camera.position.y=trex.y;
   
 }
 
